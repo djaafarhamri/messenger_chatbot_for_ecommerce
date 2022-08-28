@@ -113,7 +113,7 @@ async function handleMessage(sender_psid, received_message) {
     received_message.text === "no"
   ) {
     response = {
-      text: `the fuck you want?`,
+      text: `ok restrat th process?`,
     };
   }
 
